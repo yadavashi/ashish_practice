@@ -7,4 +7,4 @@ module ass;
       result =mul(3'b111,3'b010);
       $display ("result=%0d",result);
     end 
-    endmodule
+    endmodule //2
